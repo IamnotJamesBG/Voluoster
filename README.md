@@ -13,7 +13,7 @@ One dial, one sound screen, one settings page. No account, no sign-in, nothing t
 Get the APK from the [`Release/Free`](https://github.com/IamnotJamesBG/Voluoster/tree/main/Release/Free) folder. Grab the file with the highest version number in its name. The direct link to the current build is:
 
 ```
-https://raw.githubusercontent.com/IamnotJamesBG/Voluoster/main/Release/Free/Voluost-v1.0.3.apk
+https://raw.githubusercontent.com/IamnotJamesBG/Voluoster/main/Release/Free/Voluost-v1.0.5.apk
 ```
 
 Open the downloaded file to install it. Android will warn you that it comes from an unknown source, which is expected for anything not distributed through Google Play Store. Allow installs for your browser or file manager when it asks, and let the system installer finish the job.
