@@ -4,7 +4,7 @@ Voluost is a volume booster for Android. Your phone stops at its maximum volume,
 
 One dial, one sound screen, one settings page. No account, no sign-in, nothing to buy. Free.
 
-**Current version: 1.0.4** for Android 6.0 and newer.
+**Current version: 1.0.5** for Android 6.0 and newer.
 
 ---
 
