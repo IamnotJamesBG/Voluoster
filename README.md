@@ -4,7 +4,7 @@ Voluost is a volume booster for Android. Your phone stops at its maximum volume,
 
 One dial, one sound screen, one settings page. No account, no sign-in, nothing to buy. Free.
 
-**Current version: 1.0.5** for Android 6.0 and newer.
+**Current version: 1.0.7** for Android 6.0+
 
 ---
 
@@ -13,7 +13,7 @@ One dial, one sound screen, one settings page. No account, no sign-in, nothing t
 Get the APK from the [`Release/Free`](https://github.com/IamnotJamesBG/Voluoster/tree/main/Release/Free) folder. Grab the file with the highest version number in its name. The direct link to the current build is:
 
 ```
-https://raw.githubusercontent.com/IamnotJamesBG/Voluoster/main/Release/Free/Voluost-v1.0.5.apk
+https://raw.githubusercontent.com/IamnotJamesBG/Voluoster/main/Release/Free/Voluost-v1.0.7.apk
 ```
 
 Open the downloaded file to install it. Android will warn you that it comes from an unknown source, which is expected for anything not distributed through Google Play Store. Allow installs for your browser or file manager when it asks, and let the system installer finish the job.
@@ -28,7 +28,7 @@ Open the downloaded file to install it. Android will warn you that it comes from
 
 **It has bass.** A slider from 0 to 100, produced by lifting the low end of the equalizer rather than by a second effect fighting it. Slide it up and the bottom comes up.
 
-**It has an equalizer.** Five bands tuned to the frequencies your device actually exposes, each labelled with its real frequency. Seven presets: Flat, Bass, Vocal, Acoustic, Treble, Loudness and Custom. Move a band and it becomes Custom.
+**It has an equalizer.** 15 bands tuned to the frequencies your device actually exposes, each labelled with its real frequency. Seven presets: Flat, Bass, Vocal, Acoustic, Treble, Loudness and Custom. Move a band and it becomes Custom.
 
 **It remembers separate tunings for separate headphones.** A curve that flatters a phone speaker sounds terrible on in-ear headphones, so Voluost keeps three setups: speaker, wired headphones and Bluetooth. Plug something in and the right one takes over on its own. You can also switch profiles by hand if you want to set up your Bluetooth tuning before you get in the car.
 
