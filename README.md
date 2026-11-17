@@ -6,7 +6,7 @@
 
 `v1.0.8` · `Android 6.0+` · `2.3 MB` · `Free`
 
-**[Download the APK](https://raw.githubusercontent.com/IamnotJamesBG/Voluoster/main/Release/Free/Voluost-v1.0.8.apk)** · [All releases](https://github.com/IamnotJamesBG/Voluoster/tree/main/Release/Free) · [Questions](#questions-people-actually-ask)
+**[Download the APK](https://raw.githubusercontent.com/IamnotJamesBG/Voluoster/main/Release/Free/Voluost-v1.0.8.apk)** · [All releases](https://github.com/IamnotJamesBG/Voluoster/releases) · [Questions](#questions-people-actually-ask)
 
 ---
 
