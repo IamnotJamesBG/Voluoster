@@ -36,7 +36,7 @@
 | ⚡ | **Sub-bass and Space** | Two extra knobs for the low end and the width, off until you switch them on. |
 | 📌 | **Quick Settings tile** | Turn the boost on or off from the shade without opening the app. It reads Boosting, Paused or Off. |
 | 🔔 | **Works in the background** | Leave the app, lock the screen, open something else. Pause and Stop stay in the notification. |
-| 🔁 | **Comes back by itself** | Survives a restart and an update. There is a glowing banner on the main screen if you would rather switch it on yourself. |
+| 🔁 | **Autostart** | Survives a restart and an update. There is a glowing banner on the main screen if you would rather switch it on yourself. |
 | 🩺 | **Diagnostics** | If the boost is quiet on your phone, one screen tells you why. |
 
 ---
@@ -57,7 +57,7 @@ Hall places you somewhere. It is not one reverb with a volume knob, the seats re
 
 ---
 
-## The equalizer, without the fuss
+## The equalizer, without the struggle
 
 Fifteen bands, laid out five per row across three rows, so nothing scrolls sideways while you are tuning.
 
@@ -143,4 +143,4 @@ The source is not public, but problems still get fixed. Open an issue with your 
 
 ---
 
-<sub>Free to use, modify and share. No account. No sign in. Nothing to buy.</sub>
+<sub>Free to use, allowed to be kept as a backup, archived and shared. No account. No sign in. Nothing to buy.</sub>
