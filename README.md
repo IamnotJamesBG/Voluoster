@@ -4,9 +4,9 @@
 
 **More volume, real bass, a fifteen band equalizer, and a room you can sit in. Free, no account, no ads.**
 
-`v1.0.8` · `Android 6.0+` · `2.3 MB` · `Free`
+`v1.0.9` · `Android 6.0+` · `2.3 MB` · `Free`
 
-**[Download the APK](https://raw.githubusercontent.com/IamnotJamesBG/Voluoster/main/Release/Free/Voluost-v1.0.8.apk)** · [All releases](https://github.com/IamnotJamesBG/Voluoster/releases) · [Questions](#questions-people-actually-ask)
+**[Download the APK](https://raw.githubusercontent.com/IamnotJamesBG/Voluoster/main/Release/Free/Voluost-v1.0.9.apk)** · [All releases](https://github.com/IamnotJamesBG/Voluoster/releases) · [Questions](#questions-people-actually-ask)
 
 ---
 
